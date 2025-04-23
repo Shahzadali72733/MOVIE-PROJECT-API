@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MOVIE-PROJECT-API/static/css/main.3f264f92.css",
+    "main.js": "/MOVIE-PROJECT-API/static/js/main.6b110670.js",
+    "index.html": "/MOVIE-PROJECT-API/index.html",
+    "main.3f264f92.css.map": "/MOVIE-PROJECT-API/static/css/main.3f264f92.css.map",
+    "main.6b110670.js.map": "/MOVIE-PROJECT-API/static/js/main.6b110670.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f264f92.css",
+    "static/js/main.6b110670.js"
+  ]
+}
